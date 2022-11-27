@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297553891707",
+    "firebase_url": "https://cycwayofficial-default-rtdb.firebaseio.com",
+    "project_id": "cycwayofficial",
+    "storage_bucket": "cycwayofficial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297553891707:android:38336694921de622c86dde",
+        "android_client_info": {
+          "package_name": "com.cycwayoff.cycwayoff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297553891707-nq7ba8hj3rsqh11s14k9dlbm0vpql9iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cycwayoff.cycwayoff",
+            "certificate_hash": "dff098a529f51cfec46b2069be2fa82e9c5607d1"
+          }
+        },
+        {
+          "client_id": "297553891707-cde14s0tg51l9t0p5lgic374oe15mltv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuaH9DqXJ0q_h8y_i6qFO8Srb0UiCZyP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297553891707-cde14s0tg51l9t0p5lgic374oe15mltv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
